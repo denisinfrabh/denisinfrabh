@@ -1,5 +1,4 @@
 ### Olá, tudo bem... 👋
-🌱 Atualmente estou aprendendo ...
 
 
 <!--
